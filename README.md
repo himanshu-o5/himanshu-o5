@@ -48,7 +48,6 @@
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 <br/>
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
