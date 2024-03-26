@@ -18,15 +18,15 @@
 - **Shell Scripting**
 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></a></code>
+<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
 - **Data-Structures and Algorithm**
-- **Data Science**
-- **AI**
+- **Next.js**
+- **AI/ML**
 <br/>
   <br/>
 
